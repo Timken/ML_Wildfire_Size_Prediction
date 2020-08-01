@@ -3,6 +3,14 @@ Predict the wildfire size using description of the causes, intervention conditio
 Basic Machine learning techniques are used.
 
 ### Repo contents:
+- train.csv has the labeled data for training the model.
+- test.csv is the dataset for prediction.
+- data_dictionary.pdf contains description of columns available in dataset.
+
+Classify the wildfires into 5 classes based on the final area burned :
+'size_class' is the column which need to be predicted
+
+### Code content:
 - Data manipulation using Pandas.
 - Data preprocess functions (for easy data malipulation).
 - Basic model training using scikit-learn.
