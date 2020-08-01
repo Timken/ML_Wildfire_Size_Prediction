@@ -20,7 +20,7 @@ Classify the wildfires into 5 classes based on the final area burned :
 
 ### Requirements:
 - Python and jupyter notebook
-Libraries:
+#### Libraries:
 - numpy
 - pandas
 - scikit-learn
