@@ -17,3 +17,13 @@ Classify the wildfires into 5 classes based on the final area burned :
 - Evaluation of models to improve performance (Model cross-validation).
 - Hyper parameter tuning (random search, grid search).
 - Model comparison (Decision tree, K-Nearest Neighbors Algorithm, Random Forest, XGB classifier).
+
+### Requirements:
+- Python and jupyter notebook
+Libraries:
+- numpy
+- pandas
+- scikit-learn
+- category_encoders
+- matplotlib
+- math
